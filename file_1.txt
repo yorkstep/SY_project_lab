@@ -1,3 +1,4 @@
+Adding a line of text. 
 Hello my name is Stephanie. 
 Today is Tuesday. 
 The end. 
